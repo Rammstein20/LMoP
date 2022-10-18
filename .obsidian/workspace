@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "b582c76aa52df707",
+    "type": "split",
+    "children": [
+      {
+        "id": "83dcab912478a01d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PCs/Klunker.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6def0825b1149430",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PCs/Flo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39c5e17cde726ff0",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d44c32908aab0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95cb4ffe5f6a06fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84da40217b5910d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5428acafb6a4c8c8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad028aae05916af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "902335c1cd28079f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf579eb58c43f811",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PCs/Flo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f6350add60a74b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PCs/Flo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "028e8cb47d5dec88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1006543aaf8aac9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PCs/Flo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6def0825b1149430",
+  "lastOpenFiles": [
+    "NPCs/Klunker Backstory/Holzmann.md",
+    "NPCs/Klunker Backstory/Broly.md",
+    "PCs/Klunker.md",
+    "World/Staedte/Frontier_City.md",
+    "World/Staedte/Werkstadt Holzmann.md",
+    "README.md"
+  ]
+}

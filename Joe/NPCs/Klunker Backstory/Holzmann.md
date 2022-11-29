@@ -1,0 +1,1 @@
+[Bild von Holzmann](https://pin.it/6hI4XSj)

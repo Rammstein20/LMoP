@@ -1,0 +1,8 @@
+- Eine Gang in [[Phandalin]]
+- bestehend aus ca. 50 Leute
+- Verschleppen Menschen
+- wachsende Gang
+- Hausen unter der [[kolonial Villa]]
+- sehen sich als Stadwache
+- Erpressen schutzgeld
+- Tragen rote Tücher als erkennungzeichen

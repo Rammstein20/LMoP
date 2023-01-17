@@ -33,7 +33,7 @@ Die Welt ist voll ineinander verwoben und alles hat Einfluss auf einander *hier 
 
 Warum im Süden:
 
-Die Samen des Löwenzahns verteilen sich auch stets wie der Wind weht. Dem Löwenzahnsamen gleich lass ich mich vom Wind der Ereignisse treiben. Und Löwen (wie in Löwenzahn) sind nichts anderes als kleine Wood Cats.
+Die Samen des Löwenzahns verteilen sich auch stets wie der Wind weht. Dem Löwenzahnsamen gleich lass ich mich vom Wind der Ereignisse treiben. Und Löwen (wie in Löwenzahn) sind nichts anderes als kleine [[Wood Cats]].
 
 Warum bei Gundren:
 

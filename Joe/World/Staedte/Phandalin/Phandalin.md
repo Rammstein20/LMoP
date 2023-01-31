@@ -13,7 +13,10 @@
 - niemand ist draußen unterwegs
 
 #Notizen 
-- es gibt keinen Sherif
+- es gibt keinen Sheriff [[Iarno]] war der letzte
 
 #Geschehen
-- Ein Holzfäller wurde entführt
+- ein Holzfäller wurde entführt
+
+#Gameplay
+- Laufen durch die Stadt erfordet einen Stealth Check

@@ -15,6 +15,6 @@ Kennt [[Gundrin]] als netter Onkel der ab und zu vorbeischaute und ihn immer von
 - durch [[Gundrin]] Geschichten kam er auf die Idee in die Große weite Welt hinaus zu ziehen und sich auf die Suche nach Abenteuern zu begeben.
 
 #Notizen
-- Alle Könige gehören ermordet - [[Sera]]
+- Alle Könige gehören ermordet - [[Madam Eurlia]]
 	- Alle in Waffenröcken, die sich wie die Goblins verhalten sind böse
 - Knappe ... war der erste tote durch [[Klunker]]

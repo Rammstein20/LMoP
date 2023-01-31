@@ -6,6 +6,10 @@
 
 #Sonstiges
 - hat eine sehr alte graue Katze = [[Kumpel]]
-- Besizt den [[Saloon in Phandalin aka Kent's Kennchen]]
+- Besizt den [[Kent's Kännchen]]
+- Besitzt auch [[Kelle und Schaufel]]
 
-[Verbündeter]
+#Verbündeter
+
+#Location 
+[[Phandalin]], [[Kent's Kännchen]], [[Kelle und Schaufel]]

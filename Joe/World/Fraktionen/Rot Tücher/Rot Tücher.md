@@ -3,6 +3,6 @@
 - Verschleppen Menschen
 - wachsende Gang
 - Hausen unter der [[kolonial Villa]]
-- sehen sich als Stadwache
-- Erpressen schutzgeld
-- Tragen rote Tücher als erkennungzeichen
+- sehen sich als "Stadtwache"
+- Erpressen Schutzgeld
+- Tragen rote Tücher als Erkennungszeichen
